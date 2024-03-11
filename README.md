@@ -27,7 +27,6 @@ Delhi boasts the highest occupancy rates, suggesting ample availability of rooms
 Except for two hotels, all hotels in Delhi have an impressive rating of 4.25, indicating a chance to boost revenue by making improvements.
 Among the top 5 revenue-generating hotels, one has good revenue despite a below-average rating. Improving service quality can increase revenue, while understanding low ratings can enhance services.
 Consistent total bookings from the business class of elite across all cities enable us to implement and uphold tailored strategies for this particular income bracket of customers.
-![image](https://github.com/ShruthiKatkam/POWER-BI-PROJECTS/assets/160384599/c643752a-9d48-49fd-a536-f390850e8d87)
 
 
 
